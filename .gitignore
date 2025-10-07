@@ -14,7 +14,8 @@ build/
 venv/
 
 # data/artifacts
-data/
+/data/
+
 models/
 .dvc/
 mlruns/
